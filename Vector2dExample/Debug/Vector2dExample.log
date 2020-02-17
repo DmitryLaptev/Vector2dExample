@@ -1,3 +1,3 @@
 ﻿  Vector2d.cpp
-C:\Users\Дмитрий Лаптев\source\repos\Vector2dExample\Vector2dExample\Vector2d.cpp(71,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Дмитрий Лаптев\source\repos\Vector2dExample\Vector2dExample\Vector2d.cpp(122,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
   Vector2dExample.vcxproj -> C:\Users\Дмитрий Лаптев\source\repos\Vector2dExample\Debug\Vector2dExample.exe
